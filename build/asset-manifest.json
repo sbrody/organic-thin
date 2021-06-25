@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.216060b8.chunk.js",
+    "main.js.map": "/static/js/main.216060b8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0460dcf2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0460dcf2.js.map",
+    "static/js/2.a09a2fdb.chunk.js": "/static/js/2.a09a2fdb.chunk.js",
+    "static/js/2.a09a2fdb.chunk.js.map": "/static/js/2.a09a2fdb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.a09a2fdb.chunk.js.LICENSE.txt": "/static/js/2.a09a2fdb.chunk.js.LICENSE.txt",
+    "static/media/about-small.7106e4af.jpg": "/static/media/about-small.7106e4af.jpg",
+    "static/media/about.0ebc7e99.jpg": "/static/media/about.0ebc7e99.jpg",
+    "static/media/adam.99f54d6d.jpg": "/static/media/adam.99f54d6d.jpg",
+    "static/media/andy.9d84904b.jpg": "/static/media/andy.9d84904b.jpg",
+    "static/media/hero-small.6c4605e2.jpg": "/static/media/hero-small.6c4605e2.jpg",
+    "static/media/hero.37cb439b.jpg": "/static/media/hero.37cb439b.jpg",
+    "static/media/hugh.bfcbbc10.jpg": "/static/media/hugh.bfcbbc10.jpg",
+    "static/media/martin.2bb2006a.jpg": "/static/media/martin.2bb2006a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0460dcf2.js",
+    "static/js/2.a09a2fdb.chunk.js",
+    "static/js/main.216060b8.chunk.js"
+  ]
+}
