@@ -54,7 +54,11 @@ const VideoPlayer = ({ video, active }) => {
             >
                 <ThemePaper>
                     <div>
-                        <iframe width="560" height="315" title="video player" src={videoSrc} />
+                        <iframe width="560" height="315" title="video player" allow="fullscreen" allowfullscreen="allowfullscreen"
+                            mozallowfullscreen="mozallowfullscreen"
+                            msallowfullscreen="msallowfullscreen"
+                            oallowfullscreen="oallowfullscreen"
+                            webkitallowfullscreen="webkitallowfullscreen" src={videoSrc} />
                     </div>
                 </ThemePaper>
             </ThemeModal>
