@@ -49,7 +49,7 @@ const talentList = [
 
     {
         name: 'Hugh Lawton',
-        biog: 'A professional dancer, Hugh brought his unique interpretation of rhythm to the Organic Films roster. A firm fan favourite in series 1 of Strictly Come Dancing, Hugh was taken off the show after a scuffle with Bruce Forsyth.',
+        biog: 'A professional dancer, Hugh brought his unique interpretation of rhythm to the Organic Films roster. A firm fan favourite in series 1 of Strictly Come Dancing, Hugh was taken off the show after a scuffle with Anton Du Beke.',
         photo: hugh
     },
     {
