@@ -47,24 +47,27 @@ const IntroTypography = styled(Typography)({
 
 const talentList = [
 
+    //A firm fan favourite in series 1 of Strictly Come Dancing, Hugh was taken off the show after a scuffle with Anton Du Beke.
+    //
+
     {
-        name: 'Hugh Lawton',
-        biog: 'A professional dancer, Hugh brought his unique interpretation of rhythm to the Organic Films roster. A firm fan favourite in series 1 of Strictly Come Dancing, Hugh was taken off the show after a scuffle with Anton Du Beke.',
+        name: 'Hugh',
+        biog: 'A professional dancer, Hugh brought his unique interpretation of rhythm to the Organic Films roster.',
         photo: hugh
     },
     {
-        name: 'Adam Brody',
-        biog: "Arguably the brightest star in the Organic Films constellation, Adam's career since has been blighted by legal wrangles, including a long-running dispute with Kraft Foods over his claim to have invented cheese.",
+        name: 'Adam',
+        biog: "Arguably the brightest star in the Organic Films constellation, Adam's career since has been blighted by legal wrangles, including a long-running dispute over his claim to have invented cheese.",
         photo: adam
     },
     {
-        name: 'Martin Wood',
-        biog: "A performance artist by trade Martin could often be found standing in London's Leicester Square pretending to be a statue. He has since entered politics and is currently Liberal Democrat MP for West Wycombe.",
+        name: 'Martin',
+        biog: "A performance artist by trade Martin could often be found standing in London's Leicester Square pretending to be a statue.",
         photo: martin
     },
     {
-        name: 'Andy Cullen',
-        biog: 'A talented jazz trumpeter, Andy brought authenticity to his role as a ghostly musician in Bandstand. Following the release of the film, Andy never played the trumpet or acted again.',
+        name: 'Andy',
+        biog: 'A talented jazz trumpeter, Andy brought authenticity to his role as a ghostly musician in Bandstand.',
         photo: andy
     }
 
