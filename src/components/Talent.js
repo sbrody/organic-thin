@@ -62,12 +62,12 @@ const talentList = [
     },
     {
         name: 'Martin',
-        biog: "A performance artist by trade Martin could often be found standing in London's Leicester Square pretending to be a statue.",
+        biog: "A performance artist by trade Martin could often be found standing in London's Leicester Square pretending to be a statue. He now runs a donkey sanctuary in West Wycombe.",
         photo: martin
     },
     {
         name: 'Andy',
-        biog: 'A talented jazz trumpeter, Andy brought authenticity to his role as a ghostly musician in Bandstand.',
+        biog: 'A talented jazz musician, Andy brought authenticity to his role as a ghostly trumpeter in Bandstand. After completing the film he vowed never to act again.',
         photo: andy
     }
 
