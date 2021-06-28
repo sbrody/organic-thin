@@ -52,7 +52,7 @@ const talentList = [
 
     {
         name: 'Hugh',
-        biog: 'A professional dancer, Hugh brought his unique interpretation of rhythm to the Organic Films roster.',
+        biog: 'A professional dancer, Hugh brought his unique interpretation of rhythm to the Organic Films roster. After leaving Organic Films he invented a new style of street Rumba of which he is the sole practioner.',
         photo: hugh
     },
     {
